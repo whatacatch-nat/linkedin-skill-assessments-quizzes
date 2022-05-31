@@ -302,3 +302,73 @@
 - [ ] last search
 - [ ] linear
 - [ ] last click
+
+#### Q44. You sell piano keyboards, but your ads also appear when people search for "computer keyboards". What should you do?
+
+- [ ] Add a negative keyword for computer.
+- [ ] Add a negative keyword for keyboards.
+- [ ] Add an exact match keyword as [piano].
+- [ ] Add an exact match keyword as [computer].
+
+#### Q45. Farhann is running advertisements that are targeting only Italy, but he sees that his ads are receiving clicks from people in Greece. What is the most likely reason?
+
+- [ ] People in Greece are conducting searches such as "best restaurants in Italy".
+- [ ] Italian people visiting Greece are searching for "best restaurants in Greece".
+- [ ] People in Italy are conducting searches such as "best restaurants in Greece".
+- [ ] Greek people visiting Italy are searching for "best restaurants in Italy".
+
+#### Q46. How can you improve click share?
+
+- [ ] Add extensions.
+- [ ] all of these answers.
+- [ ] increase bid.
+- [ ] increase ad quality.
+
+#### Q47. Ad Rank determines your ad position and whether your ads are eligible to show. When is it calculated?
+
+- [ ] on the first of each calendar month
+- [ ] each time an ad is eligible to appear and competes in an auction
+- [ ] once per day
+- [ ] once per hour
+
+#### Q48. An auction has a normal bid of $.50 but there is an active bid adjustment of -20%. What is the final bid amount?
+
+- [ ] $0.04
+- [ ] $0.40
+- [ ] $0.06
+- [ ] $0.60
+
+#### Q49. What would help improve conversions and increase ad Quality Score?
+
+- [ ] adding an extension
+- [ ] using Shopping ads
+- [ ] improving landing page
+- [ ] increasing bids
+
+#### Q50. Violet has scheduled a campaign to run for one day. Her campaign is advertising a big sale that will run for one week. How should she configure the conversion window for this campaign?
+
+- [ ] Disable the conversion window.
+- [ ] Set the conversion window to 7 days.
+- [ ] Set the conversion window to 1 day.
+- [ ] Leave the conversion window at the default setting.
+
+#### Q51. Rhonda has a website selling sporting goods, and she wants people viewing her ad to be able to directly visit sections such as basketball, soccer, and football. What would you recommend she set up?
+
+- [ ] message extension
+- [ ] callout extension
+- [ ] promotion extension
+- [ ] sitelink extension
+
+#### Q52. Why is CTR an important metric?
+
+- [ ] It is used to increase conversion rate.
+- [ ] If CTR improves, CPC increases. 
+- [ ] It determines the ROI.
+- [ ] It determines whether the ad reasonates with the audience.
+
+#### Q53. A clothing retailer is launching Google Ads. How would you recommend that they group their products?
+
+- [ ] In campaign settings, enable Auto Grouping.
+- [ ] Create a separate campaign for each product.
+- [ ] Create ad groups around themes such as shirts, pants, hats, and shoes.
+- [ ] Place each product in its own ad group.
